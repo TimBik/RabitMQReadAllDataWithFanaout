@@ -1,0 +1,2 @@
+I - {surname} {name}, take a loan for an amount not disclosed to anyone.
+My passport details so that they can find me everywhere: {passportNumber}
